@@ -1,1 +1,29 @@
-
+{
+    "BSC": [
+      {
+        "title": "Project XXX",
+        "poolKey":"xxx",
+        "cardLogo": "https://placehold.co/400",
+        "chain": "BSC",
+        "description":"XXX is a marketplace where pro traders can monetize their knowledge right from Telegram, and newbies can earn & learn from blockchain-verified traders.",
+        "totalRaise":1,
+        "tokenPrice":0.5,
+        "tokenSymbol":"$USDT",
+        "vesting": ".Ltd",
+        "dealOn": "11 AM 09/05/2024 UTC",
+        "distributedOn": "11AM 09/05/2024 UTC",
+        "distributedType": "Claim",
+        "startTime": "07 AM 09/21/2024 UTC",
+        "endTime": "08 AM 09/21/2024 UTC",
+        "claimableTime": "08 AM 09/21/2024 UTC",
+        "TGEDate":"11 AM 09/21/2024 UTC",
+        "status": "live",
+        "type":"Dapp",
+        "pic1": "https://placehold.co/400",
+        "pic2": "https://placehold.co/400",
+        "pic3": "https://placehold.co/400",
+        "pic4": "https://placehold.co/400",
+        "pic5": "https://placehold.co/400"
+      }
+    ]
+}
