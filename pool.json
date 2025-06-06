@@ -6,7 +6,7 @@
         "cardLogo": "https://placehold.co/400",
         "chain": "BSC",
         "description": "Nativ, a groundbreaking platform merging AI-powered insights, blockchain technology, and immersive virtual environments to redefine how people interact with digital assets and economies.",
-        "totalRaise":300,000,
+        "totalRaise":300000,
         "tokenPrice":0.00006,
         "tokenSymbol":"$NTV",
         "vesting": "25% TGE, linear vesting over 4 months",
