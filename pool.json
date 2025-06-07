@@ -3,7 +3,7 @@
       {
         "title": "Nativ",
         "poolKey":"nativ",
-        "cardLogo": "https://placehold.co/400",
+        "cardLogo": "https://pad.friend3.group/static/images/nativ/3.jpg",
         "chain": "BSC",
         "description": "Nativ, a groundbreaking platform merging AI-powered insights, blockchain technology, and immersive virtual environments to redefine how people interact with digital assets and economies.",
         "totalRaise":300000,
@@ -19,14 +19,14 @@
         "TGEDate":"TBA",
         "status": "upcoming",
         "type":"IDO",
-        "pic1": "https://placehold.co/400",
-        "pic2": "https://placehold.co/400",
-        "pic3": "https://placehold.co/400",
+        "pic1": "https://pad.friend3.group/static/images/nativ/4.jpg",
+        "pic2": "https://pad.friend3.group/static/images/nativ/2.png",
+        "pic3": "https://pad.friend3.group/static/images/nativ/1.png",
         "pic4": "https://placehold.co/400",
         "pic5": "https://placehold.co/400",
-        "website": "",
+        "website": "https://nativ.biz/",
         "facebook":"",
-        "twitter":"",
+        "twitter":"https://x.com/Nativ_Biz",
         "instagram":"",
       }
     ]
